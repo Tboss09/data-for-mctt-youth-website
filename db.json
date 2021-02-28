@@ -1,22 +1,6 @@
 {
     "blogs": [
-        {
-            "id": 1,
-            "title": "Welcome to Our First Blog Post",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In fugit consectetur obcaecati qui nam dicta exercitationem magnam ipsa aspernatur voluptas reprehenderit, suscipit laboriosam error culpa earum. Dolore luptatum, hic dolorem? Mollitia in, quibusdam provident alias quidem laboriosam iusto aut repellendus explicabo, aliquam beatae? A quos iusto deserunt? Unde sint nostrum esse non animi iusto ipsum saepe laudantium minus sed corporis, aut ullam maxime accusantium, amet eos dolorem praesentium sit nihil blanditiis voluptate earum.",
-            "img": "assets/images/blogs-995x746.jpg",
-            "date": "February 8th, 2021",
-            "author": "Tofunmi"
-        },
-        {
-            "id": 2,
-            "title": "Welcome to Our Second Blog Post",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In fugit consectetur obcaecati qui nam dicta exercitationem magnam ipsa aspernatur voluptas reprehenderit, suscipit laboriosam error culpa earum. Dolore osam iusto aut repellendus explicabo, aliquam beatae? A quos iusto deserunt? Unde sint nostrum esse non animi iusto ipsum saepe laudantium minus sed corporis, aut ullam maxime accusantium, amet eos dolorem praesentium sit nihil blanditiis voluptate earum.",
-            "img": "assets/images/blogs-995x746.jpg",
-            "date": "February 8th, 2021",
-            "author": "Tofunmi"
-        },
-        {
+      {
             "id": 3,
             "title": "Welcome to our Third Blog Post",
             "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In fugit consectetur obcaecati qui nam dicta exercitationem magnam ipsa aspernatur voluptas reprehenderit, suscipit laboriosam error culpa earum. Dolore aliquid necessitatibus possimus ex culpa similique labore officia quos voluptate earum.",
@@ -92,7 +76,7 @@
             "pageTitle": "MCTT-Youth/Children-Harvest-Images",
             "dateOfEvent": "This Event Took Place on the 28th of April 2019",
             "images": [
-                "img-20190928-wa0027-1040x780-800x600.jpeg",
+                "img-20190928-wa0027-1040x780-80.jpeg",
                 "img-20190928-wa0028-780x1040-780x1040.jpg",
                 "img-20190928-wa0029-780x1040-780x1040.jpg",
                 "img-20190928-wa0030-780x1040-780x1040.jpg",
