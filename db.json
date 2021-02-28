@@ -1,7 +1,7 @@
 {
     "blogs": [
-      {
-            "id": 3,
+        {
+            "id": 1,
             "title": "Welcome to our Third Blog Post",
             "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In fugit consectetur obcaecati qui nam dicta exercitationem magnam ipsa aspernatur voluptas reprehenderit, suscipit laboriosam error culpa earum. Dolore aliquid necessitatibus possimus ex culpa similique labore officia quos voluptate earum.",
             "img": "assets/images/blogs-995x746.jpg",
@@ -9,7 +9,15 @@
             "author": "Tofunmi"
         },
         {
-            "id": 4,
+            "id": 1,
+            "title": "Welcome to our Third Blog Post",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In fugit consectetur obcaecati qui nam dicta exercitationem magnam ipsa aspernatur voluptas reprehenderit, suscipit laboriosam error culpa earum. Dolore aliquid necessitatibus possimus ex culpa similique labore officia quos voluptate earum.",
+            "img": "assets/images/blogs-995x746.jpg",
+            "date": "February 8th, 2021",
+            "author": "Tofunmi"
+        },
+        {
+            "id": 2,
             "title": "Living With loneliness as a believer",
             "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In fugit consectetur obcaecati qui nam dicta exercitationem magnam ipsa aspernatur voluptas reprehenderit, suscipit laboriosam error culpa earum. Dolore aliquid necessitatibus possimus ex cul= beatae? A quos iusto deserunt? Unde sint nostrum esse non animi iusto ipsum saepe laudantium minus sed corporis, aut ullam maxime accusantium, amet eos dolorem praesentium sit nihil blanditiis voluptate earum.",
             "date": "February 8th, 2021",
